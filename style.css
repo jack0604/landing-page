@@ -46,6 +46,9 @@ nav{
         background: red;
         background: 100%;
     }
+    h1{
+        margin-top:0;
+      }
     a{
         text-decoration: none;
         font-size: 30px;
