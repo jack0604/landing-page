@@ -41,7 +41,7 @@ a{
 nav{
     background: aquamarine;
 }
-.bottone{
+.bottone.toogle{
     background: black;
     border-radius: 25px;
     text-decoration:none;
